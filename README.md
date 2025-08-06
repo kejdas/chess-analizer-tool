@@ -1,6 +1,4 @@
-Here's the requested content in `README.md` format:
 
-````markdown
 # ♟️ Chess Analyzer Tool
 
 A lightweight tool to fetch chess.com games for one or more users, store them monthly in PGN format, and soon analyze them using Stockfish via a web interface.
@@ -58,10 +56,6 @@ Games are stored like this:
 * ⏳ Build Flask web frontend
 * ⏳ Display PGN metadata in browser
 
-## 👨‍🔧 Developer Notes
-
-* Git SSH setup required to push changes to GitHub
-* Run inside Docker or behind Nginx for production (planned)
 
 ## 📄 License
 
